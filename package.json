@@ -1,6 +1,6 @@
 {
   "name": "rxjs-array",
-  "version": "0.0.1",
+  "version": "0.0.1a",
   "description": "This project is to create an array which its changes can be listened such changes as `push`, `pop`, `a[0] = null`, etc.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
