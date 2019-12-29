@@ -7,6 +7,11 @@
   "scripts": {
     "build": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monabbous/observable-array.git"
+  },
+  "prepare" : "npm run build",
   "keywords": [
     "rxjs",
     "observable",
